@@ -8,8 +8,6 @@ Dependencies :
 - [Mythic Notify](https://github.com/mythicrp/mythic_notify)
 - Mythic Base - NOT PUBLICLY RELEASED
 
-This is a rather simple script that handles display & accessing various areas within an apartment
-
 This makes use of NUI to not have to draw to the screen every frame which results in much better performance in a UI that handles everything of the UI aswell as seatbelt & vehicle ejections aswell as cruise control.
 
 ## Warning
